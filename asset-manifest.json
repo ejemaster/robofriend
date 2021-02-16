@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/https//ejemaster.github.io/robofriend/static/css/main.32c2bac1.chunk.css",
+    "main.js": "/https//ejemaster.github.io/robofriend/static/js/main.75390f18.chunk.js",
+    "main.js.map": "/https//ejemaster.github.io/robofriend/static/js/main.75390f18.chunk.js.map",
+    "runtime-main.js": "/https//ejemaster.github.io/robofriend/static/js/runtime-main.af8f62e5.js",
+    "runtime-main.js.map": "/https//ejemaster.github.io/robofriend/static/js/runtime-main.af8f62e5.js.map",
+    "static/css/2.31461e4f.chunk.css": "/https//ejemaster.github.io/robofriend/static/css/2.31461e4f.chunk.css",
+    "static/js/2.2147ec2b.chunk.js": "/https//ejemaster.github.io/robofriend/static/js/2.2147ec2b.chunk.js",
+    "static/js/2.2147ec2b.chunk.js.map": "/https//ejemaster.github.io/robofriend/static/js/2.2147ec2b.chunk.js.map",
+    "index.html": "/https//ejemaster.github.io/robofriend/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/https//ejemaster.github.io/robofriend/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.32c2bac1.chunk.css.map": "/https//ejemaster.github.io/robofriend/static/css/main.32c2bac1.chunk.css.map",
+    "static/js/2.2147ec2b.chunk.js.LICENSE.txt": "/https//ejemaster.github.io/robofriend/static/js/2.2147ec2b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/https//ejemaster.github.io/robofriend/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af8f62e5.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.2147ec2b.chunk.js",
+    "static/css/main.32c2bac1.chunk.css",
+    "static/js/main.75390f18.chunk.js"
+  ]
+}
